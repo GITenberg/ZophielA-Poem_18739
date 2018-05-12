@@ -1,0 +1,29 @@
+_repo: ZophielA-Poem_18739
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Maria Gowen
+    birthdate: 1794
+    deathdate: 1845
+    gutenberg_agent_id: '8215'
+    url: http://www.gutenberg.org/2009/agents/8215
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Gowen_Brooks
+description: ''
+gutenberg_issued: '2006-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'Zophiel
+
+  A Poem'
+url: http://www.gutenberg.org/ebooks/18739
