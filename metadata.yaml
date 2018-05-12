@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8215
     wikipedia: http://en.wikipedia.org/wiki/Maria_Gowen_Brooks
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18739#ZophielA-Poem
 gutenberg_issued: '2006-07-02'
 gutenberg_type: Text
 identifiers:
